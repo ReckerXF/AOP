@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oMuaZ16Tdhg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mgoud\\source\\repos\\AOP\\AOP\\AOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mgoud\\.nuget\\packages\\citizenfx.core.server\\1.0.10048\\citizenfx.core.server.1.0.10048.nupkg.sha512"
+  ],
+  "logs": []
+}
